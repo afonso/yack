@@ -26,6 +26,8 @@ Nossos workshops sempre são realizados em eventos, congressos, hackerspaces, ma
 
 ## Contato
 
+contato@yack.com.br
+
 <form method="POST" action="http://formspree.io/afonso@yack.com.br">
   <input name="email" placeholder="Seu email" type="email"><br />
   <textarea name="message" placeholder="Mensagem"></textarea><br />
