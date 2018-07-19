@@ -4,26 +4,6 @@ Somos um grupo estruturado de makers e hackers que tem como objetivo deixar a el
 
 Nossos workshops sempre são realizados em eventos, congressos, hackerspaces, makerspaces, empresas e ONGs, tendo como alunos desde de estudantes do ensino médio até professores de universidade, empresários e engenheiros.
 
-## Workshops
-
-- Arduino
-  - Básico
-  - Avançado
-- Raspberry Pi
-  - Server Multimidia
-  - Arcade
-- Coding Dojo
-  - Python
-  - JavaScript
-  - Ruby
-  - Arduino
-- Impressão 3D
-- Drones
-- Internet das Coisas
-  - Introdução
-  - Backend
-  - Frontend
-
 ## Contato
 
 contato@yack.com.br
