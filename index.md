@@ -1,6 +1,6 @@
 ## Sobre
 
-A Yack, é uma empresa focada em serviços e treinamentos de Segurança da Informação. 
+A Yack, é um grupo de profissionais focados em em serviços e treinamentos de Segurança da Informação. 
 
 Contamos com serviços altamente especializados e desenvolvidos internamente, que nos permitem superar as expectativas de nossos clientes e parceiros, padronizando todo o ambiente tecnológico com elevados níveis de segurança.
 
