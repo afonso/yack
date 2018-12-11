@@ -1,14 +1,18 @@
 ## Sobre
 
-Somos um grupo estruturado de makers e hackers que tem como objetivo deixar a eletrônica, programação e robótica mais acessível e descomplicada para todos.
+A Yack, é uma empresa focada em serviços e treinamentos de Segurança da Informação. 
 
-Nossos workshops sempre são realizados em eventos, congressos, hackerspaces, makerspaces, empresas e ONGs, tendo como alunos desde de estudantes do ensino médio até professores de universidade, empresários e engenheiros.
+Contamos com serviços altamente especializados e desenvolvidos internamente, que nos permitem superar as expectativas de nossos clientes e parceiros, padronizando todo o ambiente tecnológico com elevados níveis de segurança.
+
+Nossos profissionais possuem certificações de mercado reconhecidas internacionalmente, tais como OSCP, DCPT, CEH e Pentest+.
+
+Nosso principal objetivo é permitir a nossos clientes ter toda a experiência, fazendo com que o investimento em segurança se torne um diferencial e seja fator decisivo, agregando alto valor ao negócio e preservando investimentos já realizados.
 
 ## Contato
 
 contato@yack.com.br
 
-<form method="POST" action="http://formspree.io/afonso@yack.com.br">
+<form method="POST" action="http://formspree.io/contato@yack.com.br">
   <input name="email" placeholder="Seu email" type="email"><br />
   <textarea name="message" placeholder="Mensagem"></textarea><br />
   <button type="submit">Enviar</button>
