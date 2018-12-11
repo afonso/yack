@@ -12,7 +12,7 @@ Nosso principal objetivo é permitir a nossos clientes ter toda a experiência, 
 
 contato@yack.com.br
 
-<form method="POST" action="http://formspree.io/contato@yack.com.br">
+<form method="POST" action="http://formspree.io/afonso@yack.com.br">
   <input name="email" placeholder="Seu email" type="email"><br />
   <textarea name="message" placeholder="Mensagem"></textarea><br />
   <button type="submit">Enviar</button>
